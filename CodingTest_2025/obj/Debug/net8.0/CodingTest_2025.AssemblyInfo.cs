@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodingTest_2025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efd26b5b728a2c701078b41257da4ea8f1212a2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d347b13e80ed06a5cffc68c6802a45f6f2a3cf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodingTest_2025")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodingTest_2025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
