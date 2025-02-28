@@ -3,13 +3,22 @@
   "WorkspaceRootPath": "C:\\LSY_C#\\CodingTest_2025\\CodingTest_2025\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1035F905-87F4-46C3-ACD7-81D1EAB29EC2}|..\\Problem18\\Problem18.csproj|c:\\lsy_c#\\codingtest_2025\\problem18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E50986B-5C31-437A-B916-55C875E8DE5B}|..\\Problem17\\Problem17.csproj|c:\\lsy_c#\\codingtest_2025\\problem17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2157C0E2-8A3B-4257-BEF1-E471BF2BEF05}|..\\Problem16\\Problem16.csproj|c:\\lsy_c#\\codingtest_2025\\problem16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273E3963-BA8D-48A3-9CB4-11AA52F0D2B4}|..\\Problem15\\Problem15.csproj|c:\\lsy_c#\\codingtest_2025\\problem15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DAA499D-3B71-47F0-8B5E-6B5DDDD4CDDD}|..\\Problem13\\Problem13.csproj|c:\\lsy_c#\\codingtest_2025\\problem13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F9FAD33-BA2C-413B-AB83-F0F70DB1528A}|..\\Problem14\\Problem14.csproj|c:\\lsy_c#\\codingtest_2025\\problem14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{273E3963-BA8D-48A3-9CB4-11AA52F0D2B4}|..\\Problem15\\Problem15.csproj|c:\\lsy_c#\\codingtest_2025\\problem15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFA797D7-8110-4DB8-A3C7-B302AC1D3D43}|..\\Problem9\\Problem9.csproj|c:\\lsy_c#\\codingtest_2025\\problem9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -68,24 +77,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem18\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Problem18\\Program.cs",
+              "ToolTip": "C:\\LSY_C#\\CodingTest_2025\\Problem18\\Program.cs",
+              "RelativeToolTip": "..\\Problem18\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T02:52:06.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem17\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Problem17\\Program.cs",
+              "ToolTip": "C:\\LSY_C#\\CodingTest_2025\\Problem17\\Program.cs",
+              "RelativeToolTip": "..\\Problem17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T02:15:41.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem16\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Problem16\\Program.cs",
+              "ToolTip": "C:\\LSY_C#\\CodingTest_2025\\Problem16\\Program.cs",
+              "RelativeToolTip": "..\\Problem16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:55:46.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem15\\Program.cs",
               "RelativeDocumentMoniker": "..\\Problem15\\Program.cs",
               "ToolTip": "C:\\LSY_C#\\CodingTest_2025\\Problem15\\Program.cs",
               "RelativeToolTip": "..\\Problem15\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAewBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T08:01:16.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem14\\Program.cs",
               "RelativeDocumentMoniker": "..\\Problem14\\Program.cs",
@@ -93,25 +141,24 @@
               "RelativeToolTip": "..\\Problem14\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAUwAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T07:42:29.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T07:42:29.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem13\\Program.cs",
               "RelativeDocumentMoniker": "..\\Problem13\\Program.cs",
               "ToolTip": "C:\\LSY_C#\\CodingTest_2025\\Problem13\\Program.cs",
               "RelativeToolTip": "..\\Problem13\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T01:37:47.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem12\\Program.cs",
               "RelativeDocumentMoniker": "..\\Problem12\\Program.cs",
@@ -119,12 +166,11 @@
               "RelativeToolTip": "..\\Problem12\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T12:33:29.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T12:33:29.751Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem8\\Program.cs",
               "RelativeDocumentMoniker": "..\\Problem8\\Program.cs",
@@ -132,12 +178,11 @@
               "RelativeToolTip": "..\\Problem8\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T02:47:02.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T02:47:02.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem7\\Program.cs",
               "RelativeDocumentMoniker": "..\\Problem7\\Program.cs",
@@ -149,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem6\\Program.cs",
               "RelativeDocumentMoniker": "..\\Problem6\\Program.cs",
@@ -161,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem5\\Program.cs",
               "RelativeDocumentMoniker": "..\\Problem5\\Program.cs",
@@ -173,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem4\\Program.cs",
               "RelativeDocumentMoniker": "..\\Problem4\\Program.cs",
@@ -185,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem3\\Program.cs",
               "RelativeDocumentMoniker": "..\\Problem3\\Program.cs",
@@ -197,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\22\\Program.cs",
               "RelativeDocumentMoniker": "..\\22\\Program.cs",
@@ -209,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\CodingTest_2025\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -217,12 +262,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T15:06:26.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T15:06:26.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem9\\Program.cs",
               "RelativeDocumentMoniker": "..\\Problem9\\Program.cs",
@@ -230,12 +274,11 @@
               "RelativeToolTip": "..\\Problem9\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T03:09:37.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T03:09:37.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem10\\Program.cs",
               "RelativeDocumentMoniker": "..\\Problem10\\Program.cs",
@@ -247,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem11\\Program.cs",
               "RelativeDocumentMoniker": "..\\Problem11\\Program.cs",
@@ -259,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem2\\Program.cs",
               "RelativeDocumentMoniker": "..\\Problem2\\Program.cs",
@@ -271,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem1\\Program.cs",
               "RelativeDocumentMoniker": "..\\Problem1\\Program.cs",
@@ -283,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Problem2.csproj",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest_2025\\Problem2\\Problem2.csproj",
               "RelativeDocumentMoniker": "..\\Problem2\\Problem2.csproj",
@@ -295,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LSY_C#\\CodingTest\\Problem1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\CodingTest\\Problem1\\Program.cs",
